@@ -1,4 +1,4 @@
-# https://clarus-store.vercel.app/
+# https://react-typescript-mtt-store-app.vercel.app/
 
 # MTT Store
 ## Description
